@@ -40,10 +40,7 @@ Vyoma is an AI-powered sports training app that helps athletes improve their per
    ```
 
 
-## Configuration
 
-- VYOMA_API_KEY: API key for external services
-- VYOMA_CONFIG: Path to a YAML/JSON configuration file
 
 
 ## Tests
